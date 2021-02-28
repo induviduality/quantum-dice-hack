@@ -4,7 +4,7 @@ A :game_die: made using a Quantum Computer built with Qiskit. Hackathon project 
 ## Instructions to run
 
 ### Setting things up
-- Download the ```.ipynb``` notebook.
+- Download the ```quantum_dice.ipynb``` notebook.
 - Create an IBM ID and login to your IBM Quantum Experience Dashboard.
 - Click on 'Quantum Lab' on the menu from the the left side of the screen.
 - Scroll down a little and click on the Import button on the screen to select the downloaded notebook.
