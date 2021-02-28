@@ -21,6 +21,10 @@ A :game_die: made using a Quantum Computer built with Qiskit. Hackathon project 
 
 ![Circuit Diagram](https://github.com/indujaaaa/quantum-dice-hack/blob/main/images/circuit-klpe3vs2.png)
 
+### Transpiled Circuit Diagram
+
+![Transpiled Circuit](https://github.com/indujaaaa/quantum-dice-hack/blob/main/images/circuit-klpkkpyq.png)
+
 ### Histogram plotting 3000 throws by the dice on the Quantum Computer
 Observe that the probability distribution for all possibilities is roughly uniform. The deviations are due to a small sample size.
 
