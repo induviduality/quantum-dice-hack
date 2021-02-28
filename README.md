@@ -15,6 +15,13 @@ A :game_die: made using a Quantum Computer built with Qiskit. Hackathon project 
 - Scroll down to the end of the cell to view the output as they are executed.
 - Sit back and enjoy some quantum die throwing! :game_die: 
 
-## Schematic Diagram of Quantum Circuit
+## Quantum Dice Visually
 
+### Schematic Circuit Diagram of Quantum Dice
 
+![Circuit Diagram](https://github.com/indujaaaa/quantum-dice-hack/blob/main/images/circuit-klpe3vs2.png)
+
+### Histogram plotting 3000 throws by the dice on the Quantum Computer
+Observe that the probability distribution for all possibilities is roughly uniform. The deviations are due to a small sample size.
+
+ ![Histogram](https://github.com/indujaaaa/quantum-dice-hack/blob/main/images/histogram.png)
