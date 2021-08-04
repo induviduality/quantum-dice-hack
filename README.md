@@ -1,7 +1,7 @@
-![Made In Angel Hacks](https://img.shields.io/badge/Made%20In-Angel%20Hacks-yellow)
+<!-- ![Made In Angel Hacks](https://img.shields.io/badge/Made%20In-Angel%20Hacks-yellow) -->
 
 # quantum-dice-hack :game_die: ⚛️
-A :game_die: made using a Quantum Computer built with Qiskit. Hackathon project for AngelHacks.
+A :game_die: made using a Quantum Computer built with Qiskit. Hackathon project.
 
 ## Instructions to run
 
